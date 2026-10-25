@@ -265,5 +265,4 @@ This project is distributed under the MIT License. See the [LICENSE](LICENSE) fi
 
 <p align="center">
   Built with simplicity and a better relationship with money in mind.
-</p>#   m o n e y - p l a n  
- 
+</p>
